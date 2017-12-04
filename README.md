@@ -2,7 +2,7 @@
 
 > First of all, let this book ([JavaScript Succinctly](https://drive.google.com/open?id=0B7lZTWiV2U7PZ1U2WXJTaktuV2M)) your reference for how the object works and some weird topics about JavaScript.
 
-Listed below some general basic topics about JavaScript. All JavaScript developers must know.
+Listed below some general basic topics about JavaScript. All JavaScript (or Frontend) developers must know.
 
 My goal is to keep this document as minimal as I can and keep it reach with keywords, links and a very small snippet of code.
 
@@ -44,6 +44,9 @@ Angular Topics:
 * HTML5 forms, and special directives from Angular2 in forms (https://angular.io/guide/reactive-forms).
 * Write reusable angular2 code services, components, directives and even Angular2 Module, when to use any.
 * [Angular2 routing, child routes](https://angular-2-training-book.rangle.io/handout/routing/child_routes.html).
+
+HTML:
+* [HTML accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML).
 
 CSS:
 * [css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
